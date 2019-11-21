@@ -5,3 +5,23 @@
 input{
     width: 20px;
 } */
+
+form{
+    padding: 4em 2em;
+    border: 1px solid gray;
+    margin: 5em 10em;
+    width: 30em;
+    height: 50%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 13px 0px;
+    background-color: whitesmoke;
+}
+
+body{
+    background-image: url("images/bg-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
